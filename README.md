@@ -1,7 +1,7 @@
 # Functional Login Test QA Project
 
 ## Overview
-This is a simple login testing project that checks if users can log in and register correctly. It includes basic features like login, registration, and a dashboard. Made with React, TypeScript, and Tailwind CSS to test if login works properly.
+Login testing project that checks whether users can log in and register correctly. It includes features like login, registration, and a dashboard.. Made with React, TypeScript, and Tailwind CSS to test if the login works properly.
 
 ## Demo
 You can try out the live demo at: [https://functional-login-test.vercel.app](https://functional-login-test.vercel.app)

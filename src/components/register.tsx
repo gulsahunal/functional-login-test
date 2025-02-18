@@ -378,7 +378,7 @@ export function Register({ onRegister }: RegisterProps) {
                             <Input 
                               {...field} 
                               id="password"
-                              type="password" 
+                              type="text" 
                               autoComplete="new-password"
                               placeholder="Enter your password"
                             />
@@ -398,7 +398,7 @@ export function Register({ onRegister }: RegisterProps) {
                             <Input 
                               {...field} 
                               id="confirmPassword"
-                              type="password" 
+                              type="text" 
                               autoComplete="new-password"
                               placeholder="Confirm your password"
                             />

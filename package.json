@@ -6,11 +6,12 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc && vite build",
     "lint": "biome lint .",
     "format": "biome format . --write",
     "check": "biome check --apply .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "vercel-build": "npm run build"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",

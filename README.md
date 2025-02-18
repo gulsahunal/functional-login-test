@@ -1,7 +1,7 @@
 # Functional Login Test QA Project
 
 ## Overview
-A simple login testing project that checks if users can log in and register correctly. It includes basic features like login, registration, and a dashboard. Made with React, TypeScript, and Tailwind CSS to test if login works properly.
+This is a simple login testing project that checks if users can log in and register correctly. It includes basic features like login, registration, and a dashboard. Made with React, TypeScript, and Tailwind CSS to test if login works properly.
 
 ## Features
 - **Login & Logout:** Implements a fully functional login system that uses localStorage for session management.
@@ -19,17 +19,19 @@ A simple login testing project that checks if users can log in and register corr
 
 ## Testing Documentation
 For detailed information on test cases and documentation, please refer to the following documents:
-- [Test Documentation (English)](docs/en/test-documentation.md)
-- [Test Documentation (Turkish)](docs/tr/test-dokumentasyonu.md)
+- [Register Test Documentation (English)](https://docs.google.com/spreadsheets/d/1TbjFpvQMmZXTkUNXt2DqmBlM7pZK4YWT7mRMbO0zJes/edit?usp=drive_link)
+- [Login Test Documentation (English)](https://docs.google.com/spreadsheets/d/1sayNDu8vERHo5MK5ClYS2z4GXbkCRRRZS4klkilb2tw/edit?usp=drive_link)
+- [Register Test Documentation (Turkish)](https://docs.google.com/spreadsheets/d/1m6r3F1WDO91B68p-K5fUvfCx2RrVwofq8GpqfM7PKB4/edit?usp=drive_link)
+- [Login Test Documentation (Turkish)](https://docs.google.com/spreadsheets/d/1U2jwiYArzjMqJyBmfRAiMp-n8XmpT4074q7izGjPt30/edit?usp=drive_link)
 
 ## How to Run the Project
 1. Install the dependencies:
    ```bash
-   npm install
+   bun install
    ```
 2. Start the development server:
    ```bash
-   npm start
+   bun start
    ```
 3. Open your browser and navigate to the local development URL (typically http://localhost:3000).
 

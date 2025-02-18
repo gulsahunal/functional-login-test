@@ -3,6 +3,9 @@
 ## Overview
 This is a simple login testing project that checks if users can log in and register correctly. It includes basic features like login, registration, and a dashboard. Made with React, TypeScript, and Tailwind CSS to test if login works properly.
 
+## Demo
+You can try out the live demo at: [https://functional-login-test.vercel.app](https://functional-login-test.vercel.app)
+
 ## Features
 - **Login & Logout:** Implements a fully functional login system that uses localStorage for session management.
 - **User Registration:** Provides a registration workflow with OTP-based email verification.
